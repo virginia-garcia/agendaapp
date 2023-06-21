@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda Personal</string>
+
+    <!--Identificadores de Main Activity-->
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <!--Identificadores de Registro-->
+    <string name="CrearCuentaTXT">Crear Cuenta</string>
+    <string name="NombreEt">Nombre</string>
+    <string name="CorreoEt">Correo</string>
+    <string name="ContraseñaEt">Contraseña</string>
+    <string name="ConfirmarContraseñaEt">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounacuentaTXT">Tengo una cuenta</string>
+</resources>
